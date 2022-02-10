@@ -1,5 +1,4 @@
 # IMPORT the imp packages
-from hashlib import new
 from pysat.solvers import Solver
 from pysat.formula import CNF
 import numpy as np
